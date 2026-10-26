@@ -1,0 +1,63 @@
+/* Samuel Guizar */
+/* Assignment 2.2 */
+
+html, body {
+    font-size: 16px;
+}
+
+#container {
+    margin: 50px;
+}
+
+p {
+    font-weight: 400;
+    line-height: 1.4em;
+}
+
+h1 {
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+h2 {
+    font-weight: 500;
+    text-align: left;
+    padding-top: 15px;
+}
+
+address {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-style: normal;
+}
+
+address p {
+    text-align: center;
+}
+
+address a {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #4F3674;
+    text-decoration: none;
+}
+
+address a:visited {
+    color: #663399;
+}
+
+address a:hover {
+    text-decoration: underline;
+    background-color: #D6A800;
+}
+
+.sentence {
+    font-style: italic;
+}
+
+.intro {
+    text-indent: 2em;
+}
