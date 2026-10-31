@@ -52,6 +52,6 @@ ol {
     text-decoration: none;
 }
 
-a:hover {
+#bottom a:hover {
     text-decoration: underline;
 }
