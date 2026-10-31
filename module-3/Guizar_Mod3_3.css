@@ -47,6 +47,11 @@ ol {
     float: right;
 }
 
+#bottom a {
+    float: right;
+    text-decoration: none;
+}
+
 a:hover {
     text-decoration: underline;
 }
