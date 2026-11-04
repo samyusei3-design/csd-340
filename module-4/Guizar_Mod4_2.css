@@ -15,6 +15,7 @@ h1 {
 #image-gallery {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    border: 1px solid black;
     margin-top: 10%;
 }
 
