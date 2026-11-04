@@ -1,0 +1,50 @@
+/*
+Samuel Guizar
+11/3/26
+Module 4.2
+*/
+
+#container {
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#image-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 10%;
+}
+
+h3 {
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+}
+
+#bottom {
+    width: 100%;
+    margin-top: 60%;
+}
+
+#bottom a {
+    text-decoration: none;
+}
+
+#bottom a:hover {
+    text-decoration: underline;
+}
